@@ -62,7 +62,7 @@ export const WelcomeScreen = ({ onOpenSettings }: WelcomeScreenProps): React.JSX
         </div>
 
         <div className="text-white/40 text-xs text-center">
-          Start by taking screenshots of your coding problem (Ctrl+H / Cmd+H)
+          Start by taking screenshot of your coding problem (Ctrl+H / Cmd+H)
         </div>
       </div>
     </div>
